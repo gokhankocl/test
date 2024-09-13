@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          10
+        ]
+      },
+      "properties": {
+        "name": "Location Name",
+        "image": "https://i.ibb.co/XSSsyks/zag.png"
+      },
+      "id": 0
+    }
+  ]
+}
